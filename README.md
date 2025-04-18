@@ -1,4 +1,4 @@
-# Greetings, I'm [Your Name] 🎮 
+# Greetings, I'm Pitza! 🎮 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5D12D2&width=435&lines=Game+Developer;Game+Designer;Gameplay+Programmer)](https://git.io/typing-svg)
 ## 🕹️ About Me
