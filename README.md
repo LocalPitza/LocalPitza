@@ -25,14 +25,16 @@ I'm a passionate game developer and designer with 2 years of experience creating
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/-Maya-00AFF0?style=flat-square&logo=autodesk)
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite)
+![Medibang](https://img.shields.io/badge/-Medibang-7D929E?style=flat-square&logo=medibang)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/-Notion-0052CC?style=flat-square&logo=Notion&logoColor=white)
 
 ## 🎨 Design Portfolio
 
-Check out my game design documents and artwork:
+Check out my games, and game design documents:
 
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://pitza.itch.io/)
 
